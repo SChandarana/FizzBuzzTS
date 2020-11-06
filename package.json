@@ -1,5 +1,5 @@
 {
-    "name": "tsTemplate",
+    "name": "fizzbuzz",
     "version": "1.0.0",
     "description": "Template for typescript projects",
     "main": "build/index.js",
